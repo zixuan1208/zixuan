@@ -84,9 +84,9 @@ author:
   avatar           : "images/1.png"
   bio              : "a senior student at Nanjing University of Finance and Economics majoring in Computer Science and Technology"
   location         : "China Nanjing"
-  employer         :#
-  googlescholar    :# ""
-  pubmed           :#
+  employer         :
+  googlescholar    : ""
+  pubmed           :
   email            : "https://github.com/zixuan1208/zixuan"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
