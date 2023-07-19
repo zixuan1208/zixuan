@@ -1,17 +1,16 @@
 ---
 layout: archive
-title: "Personal"
-permalink: /Personal/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
-## Hobbies
-playing badminton、running and dancing
+{% include base_path %}
 
-## volunteer experience
-● Volunteering in hospitals during the epidemic
-● Participation in the voluntary sector on campus
-● One month of solo volunteer travel
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 
 
