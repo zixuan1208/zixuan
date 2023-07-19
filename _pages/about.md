@@ -14,7 +14,7 @@ Awards
 ======
 1. Second prize of Huawei ICT Competition Shaanxi Division[ 华为ICT陕西赛区个人实践赛二等奖](images/微信图片_20230719202851.jpg).
 2. First prize of ICT competition at school level.[校赛一等奖](images/微信图片_202307192028511.jpg).
-3.First prize in the University Student Modeling Competition.[数学建模三等奖](images/微信图片_202307192028502.jpg).
+3. First prize in the University Student Modeling Competition.[数学建模三等奖](images/微信图片_202307192028502.jpg).
 
 
 Open to Collaboration
