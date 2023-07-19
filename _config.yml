@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zixuan He"
   avatar           : "images/1.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Senior student at Nanjing University of Finance and Economics majoring in Computer Science and Technology"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
