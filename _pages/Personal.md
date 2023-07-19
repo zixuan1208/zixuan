@@ -1,11 +1,13 @@
 ---
-permalink: /
-title: "Personal "
+layout: archive
+title: "Personal"
+permalink: /Personal/
 author_profile: true
-redirect_from: 
-  - /Personal/
-  - /Personal.html
+redirect_from:
+  - /Personal
 ---
+
+{% include base_path %}
 
 Hobbies
 ======
