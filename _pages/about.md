@@ -8,27 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Xiaochuan Ai（艾小川）, a fourth-year student majoring in Computer Science and Technology at Xi'an Technological University（https://www.xatu.edu.cn/）. My research interests lie in Machine Learning, Deep Learning, Computer Vision, Generative Modeling, and Multimodality. Recently, I focus on doing research in the field of speech generation motion in 3D human reconstruction, focusing on improving the model computing speed and running efficiency.For my CV,please refer[ Curriculum Vitae](assets/Curriculum Vitae.pdf).
+Hello, I am Xiaochuan Ai（艾小川）, a fourth-year student majoring in Computer Science and Technology at [Xi'an Technological University]（https://www.xatu.edu.cn/）. My research interests lie in Machine Learning, Deep Learning, Computer Vision, Generative Modeling, and Multimodality. Recently, I focus on doing research in the field of speech generation motion in 3D human reconstruction, focusing on improving the model computing speed and running efficiency.For my CV,please refer[ Curriculum Vitae](assets/Curriculum Vitae.pdf).
 
 Awards
 ======
-1. Second prize of Huawei ICT Competition Shaanxi Division[ 华为ICT陕西赛区个人实践赛2等奖](images/微信图片_20230719202851.jpg).
+1. Second prize of Huawei ICT Competition Shaanxi Division[ 华为ICT陕西赛区个人实践赛二等奖](images/微信图片_20230719202851.jpg).
 2. First prize of ICT competition at school level.[校赛一等奖](images/微信图片_202307192028511.jpg).
 3.First prize in the University Student Modeling Competition.[数学建模三等奖](images/微信图片_202307192028502.jpg).
 
 
-many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Open to Collaboration
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+If you would like to work with me, please send me an email.[email](XiaochuanAi9@outlook.com)
 
 Site-wide configuration
 ------
