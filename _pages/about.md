@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Xiaochuan Ai（艾小川）, a fourth-year student majoring in Computer Science and Technology at [Xi'an Technological University]（https://www.xatu.edu.cn/）. My research interests lie in Machine Learning, Deep Learning, Computer Vision, Generative Modeling, and Multimodality. Recently, I focus on doing research in the field of speech generation motion in 3D human reconstruction, focusing on improving the model computing speed and running efficiency.For my CV,please refer[ Curriculum Vitae](assets/Curriculum Vitae.pdf).
+Hello, I am Xiaochuan Ai（艾小川）, a fourth-year student majoring in Computer Science and Technology at [Xi'an Technological University]（https://www.xatu.edu.cn/）. My research interests lie in Machine Learning, Deep Learning, Computer Vision, Generative Modeling, and Multimodality. Recently, I focus on doing research in the field of speech generation motion in 3D human reconstruction, focusing on improving the model computing speed and running efficiency.For my CV,please refer[Curriculum Vitae](assets/Curriculum Vitae.pdf).
 
 Awards
 ======
