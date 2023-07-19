@@ -13,10 +13,10 @@ Hello, I'm Zixuan He, a fourth-year student at Nanjing University of Finance and
 
 Awards
 ======
-1.2023/1 Won [first prize](中国机器人大赛三等奖.jpg) in the 17th Intelligent Vehicle Competition.  
-2.2022/8 Won the [Third Prize](智能车比赛国家一等奖.jpg) of the China University Student Design Competition.  
-3.2022/2 Participated in MCM/ICM to obtain [Honorable Mentions](美赛建模H奖.jpg).  
-4.Some other modelling competitions such as May Day Modelling, APMCM.  
+·2023/1 Won [first prize](中国机器人大赛三等奖.jpg) in the 17th Intelligent Vehicle Competition.  
+·2022/8 Won the [Third Prize](智能车比赛国家一等奖.jpg) of the China University Student Design Competition.  
+·2022/2 Participated in MCM/ICM to obtain [Honorable Mentions](美赛建模H奖.jpg).  
+·Some other modelling competitions such as May Day Modelling, APMCM.  
 
 Open to Collaboration
 ======
