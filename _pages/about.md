@@ -11,7 +11,7 @@ redirect_from:
 Hello, I'm Zixuan He, a fourth year student at Nanjing University of Finance and Economics majoring in Computer Science and Technology (B.S.).My research interests are in machine learning, deep learning, computer vision, multimodality and applications to autonomous driving.Currently, I am doing research on the multimodal field of speech-to-motion in terms of 3d.For my CV,please refer [CV](ZixuanHe.pdf).
 
 
-A data-driven personal website
+News
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
