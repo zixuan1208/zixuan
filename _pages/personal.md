@@ -4,7 +4,7 @@ title: "personal"
 author_profile: true
 redirect_from: 
   - /md/
-  - /personal.html
+  - /markdown.html
 ---
 
 ## Hobbies
