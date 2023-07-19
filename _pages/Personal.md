@@ -1,6 +1,6 @@
 ---
-permalink: /personal/
-title: "personal"
+permalink: /Personal/
+title: "Personal"
 author_profile: true
 ---
 
