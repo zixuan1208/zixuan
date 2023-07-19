@@ -6,12 +6,12 @@ redirect_from:
   - /markdown.html
 ---
 
-## Hobbies
+# Hobbies
 ● playing badminton  
 ● running  
 ● dancing 
 
-## voluntary activities
+# voluntary activities
 ● Volunteering in hospitals during the epidemic  
 ● Participation in the voluntary sector on campus  
 ● One month of solo volunteer travel  
