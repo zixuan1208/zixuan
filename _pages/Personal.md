@@ -1,6 +1,5 @@
 ---
 permalink: /Personal/
-title: "Personal"
 author_profile: true
 redirect_from: 
   - /md/
