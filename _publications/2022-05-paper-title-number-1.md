@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2022-05-paper-title-number-1.md
 date: 2022-05
 venue: 'Academic Journal of Mathematical Sciences'
-paperurl: 'https://github.com/zixuan1208/zixuan/blob/master/files/paper1.pdf'
+paperurl: 'https://francis-press.com/uploads/papers/kdA1h7f0IkEl19iSYt9sLCQoq1l0Sp0rHdHgHw2e.pdf'
 Author: Zixuan He, Xiaoxu Li, Tianze Chen
 ---
 
-[Download paper here](https://github.com/zixuan1208/zixuan/blob/master/files/paper1.pdf)
+[Download paper here](https://francis-press.com/uploads/papers/kdA1h7f0IkEl19iSYt9sLCQoq1l0Sp0rHdHgHw2e.pdf)
 
