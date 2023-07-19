@@ -1,6 +1,5 @@
 ---
 title: "Application model of forest value based on carbon storage analysis"
-
 Published 2022
 Author: Zixuan He, Xiaoxu Li, Tianze Chen
 ---
