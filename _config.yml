@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zixuan He"
   avatar           : "\images\1.png"
-  bio              : "A senior student at Nanjing University of Finance and Economics majoring in Computer Science and Technology" 
+  bio              : " A senior student at Nanjing University of Finance and Economics majoring in Computer Science and Technology "
   location         : "China Nanjing"
   employer         :
   googlescholar    : #""
   pubmed           :
-  email            : "zixuanhe921@outlook.com" 
+  email            : "zixuanhe921@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
