@@ -10,7 +10,7 @@ main:
     url: /service/    
  
   - title: "Personal"
-    url: /personal/
+    url: /Personal/
         
 #  - title: "Blog Posts"
  #   url: /year-archive/
