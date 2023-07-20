@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 Please download my [CV](CV.pdf).
-please refer.[Curriculum Vitae](assets/Curriculum Vitae.pdf).
+
 
