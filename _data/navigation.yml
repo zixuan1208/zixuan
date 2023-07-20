@@ -4,10 +4,7 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /cv/    
-
- # - title: "Service"
- #  url: /service/    
+    url: /cv/       
  
   - title: "Personal"
     url: /personal/
