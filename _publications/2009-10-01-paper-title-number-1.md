@@ -4,9 +4,8 @@ collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1.md
 Academic journal: Clausius Scientific Press
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-Author: Xiaochuan Ai
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Author: Xiaochuan Ai
 Paper ID: CSP-27309
 Acceptance date: 2023-May-13（Paper accepted, expected to be published in early September）
 
