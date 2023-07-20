@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
-Download my [CV](Zixuan_He_CV.pdf)  
+Download my [CV](https://zixuan1208.github.io/zixuan/Zixuan_He_CV.pdf)  
 
