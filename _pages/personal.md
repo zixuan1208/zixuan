@@ -9,9 +9,9 @@ redirect_from:
 
 ## Hobbies
 
-● Doing aerobic exercises like swimming, playing badminton
-● playing Chinese chess
-● Singing
+Doing aerobic exercises like swimming, playing badminton<br/>
+playing Chinese chess<br/>
+Singing
 
 ## Tips and hints
 
