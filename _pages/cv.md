@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-my [CV](Zixuan_He_CV.pdf)  
+My [CV](Zixuan_He_CV.pdf)  
