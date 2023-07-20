@@ -7,6 +7,3 @@ redirect_from:
   - /resume
 ---
 Download my [CV](Zixuan_He_CV.pdf).
-
-
-
