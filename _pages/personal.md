@@ -12,7 +12,6 @@ redirect_from:
 Doing aerobic exercises like swimming, playing badminton<br>
 
 playing Chinese chess
-
 Singing
 
 ## Tips and hints
