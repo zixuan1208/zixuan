@@ -6,5 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Download my [CV](Curriculum Vitae.pdf)
+Please download my [CV](Curriculum Vitae.pdf)
 
