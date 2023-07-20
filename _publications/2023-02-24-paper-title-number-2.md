@@ -5,6 +5,6 @@ permalink: /publication/2023-02-24-paper-title-number-2
 date: 2022-02-24
 venue: 'IEEE'
 ---
-Author: Songyu Deng；Zixuan He; Meng Niu
+Author: Songyu Deng, Zixuan He, Meng Niu
 
 
