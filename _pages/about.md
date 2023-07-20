@@ -21,8 +21,8 @@ Awards
 
 Open to Collaboration
 ======
-Free to email me if you would like to work together!
-
+Free to email me if you would like to work together!  
+  
 I am actively looking for Phd/RA position, please contact me if you think I am a good fit.
 
 
