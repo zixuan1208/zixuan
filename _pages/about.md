@@ -14,9 +14,9 @@ Hello, I am Xiaochuan Ai（艾小川）, a fourth-year student majoring in Compu
 
 Awards
 ======
-1. Second prize of Huawei ICT Competition Shaanxi Division[ 华为ICT个人实践赛陕西赛区二等奖](images/微信图片_20230719202851.jpg).
-2. First prize of ICT competition.[个人赛一等奖](images/微信图片_202307192028511.jpg).
-3. First prize in the University Student Modeling Competition.[数学建模三等奖](images/微信图片_202307192028502.jpg).
+1. 2022/12 won [Second prize](images/微信图片_20230719202851.jpg) of Huawei ICT Competition Shaanxi Division.
+2. 2022/11 won [First prize](images/微信图片_202307192028511.jpg) of ICT competition.
+3. 2022/06 won [Third prize](images/微信图片_202307192028502.jpg) in the University Student Modeling Competition.
 
 
 
