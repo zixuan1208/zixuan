@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hello, I'm Zixuan He, a fourth-year student at Nanjing University of Finance and Economics majoring in Computer Science and Technology (B.S.), advised by [Prof. Lei Zhang](https://xueshu.baidu.com/scholarID/CN-BK73TEKJ).  
-My research interests are in machine learning, deep learning, computer vision, multimodality, and applications to autonomous driving. Currently, I am doing research on multimodal field of speech-to-motion in terms of 3d. For my CV, please refer to [CV](ZixuanHe.pdf).  
+My research interests are in machine learning, deep learning, computer vision, multimodality, and applications to autonomous driving. Currently, I am doing research on multimodal field of speech-to-motion in terms of 3d. For my CV, please refer to [CV](Zixuan_He_CV.pdf).  
 **I am actively looking for Phd/RA position, please contact me if you think I am a good fit.**
 
 
