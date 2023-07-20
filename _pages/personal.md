@@ -14,8 +14,6 @@ redirect_from:
 ● Singing
 
 
-
-
 ## Tips and hints
 
 
