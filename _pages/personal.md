@@ -1,5 +1,5 @@
 ---
-permalink: /Personal/
+permalink: /personal/
 title: ""
 author_profile: true
 redirect_from: 
