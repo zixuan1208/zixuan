@@ -1,10 +1,10 @@
 ---
 title: "Study on Composition Analysis and Species Identification of Glass Relics Based on the Multiple Linear Regression Model"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-1.md
+Academic journal: Clausius Scientific Press
 Paper ID: CSP-27309
-date: 2023-May-13
-venue: 'Journal 1'
+Acceptance date: 2023-May-13（Paper accepted, expected to be published in early September）
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 Author： Xiaochuan Ai
 ---
