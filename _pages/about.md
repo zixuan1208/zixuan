@@ -14,11 +14,11 @@ Hello, I am Xiaochuan Ai（艾小川）, a fourth-year student majoring in Compu
 
 Awards
 ======
-1. 2022/06 Won [Third prize](images/微信图片_202307192028502.jpg) of China Undergraduate Mathematical Contest in Modeling.
-2. 2022/11 Awarded as a [Merit student](images/微信图片_20230719202850.jpg) for the 2021-2022 school year.
-3. 2022/11 Awarded Second Class[Academic Scholarship](images/微信图片_202307192028501.jpg) for the 2021- 2022 academic year.
-4. 2022/11 Won [First prize](images/微信图片_202307192028511.jpg) of ICT competition.
-5. 2022/12 Won [Second prize](images/微信图片_20230719202851.jpg) of 2022-2023  ICT Competition Shaanxi Division.
+* 2022/06 Won [Third prize](images/微信图片_202307192028502.jpg) of China Undergraduate Mathematical Contest in Modeling.
+* 2022/11 Awarded as a [Merit student](images/微信图片_20230719202850.jpg) for the 2021-2022 school year.
+* 2022/11 Awarded Second Class[Academic Scholarship](images/微信图片_202307192028501.jpg) for the 2021- 2022 academic year.
+* 2022/11 Won [First prize](images/微信图片_202307192028511.jpg) of ICT competition.
+* 2022/12 Won [Second prize](images/微信图片_20230719202851.jpg) of 2022-2023  ICT Competition Shaanxi Division.
    
 
 
