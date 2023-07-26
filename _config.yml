@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaochuan Ai/Personal Homepage"
+title                    : "Xiaochuan Ai"
 title_separator          : "-"
 name                     : &name "Xiaochuan Ai"
 description              : &description "A senior majoring in computer science and technology at Xi'an Technological University"
