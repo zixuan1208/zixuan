@@ -26,8 +26,7 @@ Awards
 * 2022/12 Won [Second prize](images/微信图片_20230719202851.jpg) of 2022-2023  ICT Competition Shaanxi Division.<br>
 ![ICT获奖](ICT获奖.png)   
 
-
-
+https://github.com/XiaochuanAi/XiaochuanAi.github.io/blob/478976385c2b506a223ef872e8482d4881e84792/ICT%E8%8E%B7%E5%A5%96.png
 Open to Collaboration
 ======
 
