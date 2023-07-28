@@ -69,9 +69,6 @@ My research interests are in machine learning, deep learning, computer vision, m
 
 Awards
 ======
-● 2023/1 Won [first prize](中国机器人大赛三等奖.jpg) in the 17th Intelligent Vehicle Competition.  
-
-
 <ul>
     <li>2023/1 Won <a href="中国机器人大赛三等奖.jpg">in the 17th Intelligent Vehicle Competition.
       <div class="slideshow-container">
@@ -95,44 +92,38 @@ Awards
     <li>Some other modeling competitions such as May Day Modelling, and APMCM.</li>
 </ul>
 
-● 2022/8 Won the [Third Prize](智能车比赛国家一等奖.jpg) of the China University Student Design Competition.  
-
-● 2022/2 Participated in MCM/ICM to obtain [Honorable Mentions](美赛建模H奖.jpg).  
-
-● Some other modeling competitions such as May Day Modelling, and APMCM.  
-
 <script>
   // 在页面加载完毕后执行
-        document.addEventListener('DOMContentLoaded', function() {
-            // 获取轮播容器和轮播图片数量
-            var slideshowContainer = document.querySelector('.slideshow-container');
-            var slideshowImages = slideshowContainer.querySelectorAll('img');
-            var numImages = slideshowImages.length;
-            
-            // 定义初始显示的图片索引
-            var currentImageIndex = 0;
-            
-            // 自动切换图片的间隔时间（单位：毫秒）
-            var interval = 2000;
-            
-            // 切换图片的函数
-            function changeImage() {
-                // 隐藏当前显示的图片
-                slideshowImages[currentImageIndex].style.opacity = 0;
-                
-                // 计算下一张图片的索引
-                currentImageIndex = (currentImageIndex + 1) % numImages;
-                
-                // 显示下一张图片
-                slideshowImages[currentImageIndex].style.opacity = 1;
-                
-                // 设置定时器，延迟切换下一张图片
-                setTimeout(changeImage, interval);
-            }
-            
-            // 执行切换图片函数
-            setTimeout(changeImage, interval);
-        });
+  document.addEventListener('DOMContentLoaded', function() {
+    // 获取轮播容器和轮播图片数量
+    var slideshowContainer = document.querySelector('.slideshow-container');
+    var slideshowImages = slideshowContainer.querySelectorAll('img');
+    var numImages = slideshowImages.length;
+    
+    // 定义初始显示的图片索引
+    var currentImageIndex = 0;
+    
+    // 自动切换图片的间隔时间（单位：毫秒）
+    var interval = 2000;
+    
+    // 切换图片的函数
+    function changeImage() {
+      // 隐藏当前显示的图片
+      slideshowImages[currentImageIndex].style.opacity = 0;
+      
+      // 计算下一张图片的索引
+      currentImageIndex = (currentImageIndex + 1) % numImages;
+      
+      // 显示下一张图片
+      slideshowImages[currentImageIndex].style.opacity = 1;
+      
+      // 设置定时器，延迟切换下一张图片
+      setTimeout(changeImage, interval);
+    }
+    
+    // 执行切换图片函数
+    setTimeout(changeImage, interval);
+  });
 </script>
 
 
