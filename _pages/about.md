@@ -86,12 +86,11 @@ Awards
           <input type="radio" name="slide-dot" id="slide-dot3">
         <label for="slide-dot3"></label>
       </div>
-    </div>
     </li>
     <li>2022/8 Won the <a href="智能车比赛国家一等奖.jpg">Third Prize</a> of the China University Student Design Competition.</li>
     <li>2022/2 Participated in MCM/ICM to obtain <a href="美赛建模H奖.jpg">Honorable Mentions</a>.</li>
     <li>Some other modeling competitions such as May Day Modelling, and APMCM.</li>
-</ul>
+
 
 <script>
   // 在页面加载完毕后执行
