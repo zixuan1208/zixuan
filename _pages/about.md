@@ -29,6 +29,10 @@ Awards
 
 assets/ICT获奖.PNG
 
+<img src="assets/ICT获奖.PNG" alt="ICT获奖" />
+
+
+
 Open to Collaboration
 ======
 
