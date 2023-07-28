@@ -7,7 +7,59 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<link rel="stylesheet" type="text/css" href="carousel.css">
+<style>
+  .slideshow-container {
+    width: 500px;
+    height: 300px;
+    position: relative;
+    overflow: hidden;
+  }
+        
+  .slideshow-container input {
+    display: none;
+  }
+  
+  .slideshow-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .slideshow-container input:checked + img {
+      opacity: 1;
+  }
+  
+  .slideshow-controls {
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 1;
+  }
+  
+  .slideshow-controls label {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background-color: #999;
+      margin: 0 5px;
+      cursor: pointer;
+  }
+  
+  .slideshow-controls label:hover {
+      background-color: #333;
+  }
+  
+  .slideshow-controls input:checked + label {
+      background-color: #333;
+  }
+</style>
 
 Hello, I'm Zixuan He, a fourth-year student at Nanjing University of Finance and Economics majoring in Computer Science and Technology (B.S.), advised by [Prof. Lei Zhang](https://xueshu.baidu.com/scholarID/CN-BK73TEKJ).  
 My research interests are in machine learning, deep learning, computer vision, multimodality, and applications to autonomous driving. Currently, I am doing research on multimodal field of speech-to-motion in terms of 3d. For my CV, please refer to [CV](Zixuan_He_CV.pdf). Free to email me if you would like to work together!  
