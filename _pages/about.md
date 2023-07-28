@@ -27,7 +27,7 @@ Awards
 * 2022/12   Won [Second prize](images/微信图片_20230719202851.jpg) of 2022-2023  ICT Competition Shaanxi Division.<br>
  
 
-<img src="assets/ICT获奖.PNG" alt="ICT获奖" width="300" height="300"/>
+<img src="assets/ICT获奖.PNG" alt="ICT获奖" width="400" height="300"/>
 
 
 
