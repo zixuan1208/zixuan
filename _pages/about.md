@@ -125,7 +125,7 @@ Awards
     setTimeout(changeImage, interval);
   });
 </script>
-
+</ul>
 
 
 
