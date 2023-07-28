@@ -20,11 +20,11 @@ If you think I would be a good fit or would like to work with me, please feel fr
 
 Awards
 ======
-* 2022/06 Won [Third prize](images/微信图片_202307192028502.jpg) of China Undergraduate Mathematical Contest in Modeling.
-* 2022/11 Awarded as a [Merit student](images/微信图片_20230719202850.jpg) for the 2021-2022 school year.
-* 2022/11 Awarded Second Class[Academic Scholarship](images/微信图片_202307192028501.jpg) for the 2021- 2022 academic year.
-* 2022/11 Won [First prize](images/微信图片_202307192028511.jpg) of ICT competition.
-* 2022/12 Won [Second prize](images/微信图片_20230719202851.jpg) of 2022-2023  ICT Competition Shaanxi Division.<br>
+* 2022/ 6   Won [Third prize](images/微信图片_202307192028502.jpg) of China Undergraduate Mathematical Contest in Modeling.
+* 2022/11   Awarded as a [Merit student](images/微信图片_20230719202850.jpg) for the 2021-2022 school year.
+* 2022/11   Awarded Second Class[Academic Scholarship](images/微信图片_202307192028501.jpg) for the 2021- 2022 academic year.
+* 2022/11   Won [First prize](images/微信图片_202307192028511.jpg) of ICT competition.
+* 2022/12   Won [Second prize](images/微信图片_20230719202851.jpg) of 2022-2023  ICT Competition Shaanxi Division.<br>
 ![ICT获奖](https://github.com/XiaochuanAi/XiaochuanAi.github.io/blob/478976385c2b506a223ef872e8482d4881e84792/ICT%E8%8E%B7%E5%A5%96.png)   
 
 
