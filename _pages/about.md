@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <style>
   .slideshow-container {
     width: 500px;
@@ -103,8 +104,9 @@ My research interests are in machine learning, deep learning, computer vision, m
 
 Awards
 ======
+
 <ul>
-    <li>2023/1 Won <a href="中国机器人大赛三等奖.jpg"></a>in the 17th Intelligent Vehicle Competition.
+    <li>2023/1 Won <a href="中国机器人大赛三等奖.jpg">Third Prize</a>in the 17th Intelligent Vehicle Competition.
       <div class="slideshow-container">
         <input type="radio" name="slide" id="slide1" checked>
         <img src="中国机器人大赛三等奖.jpg" alt="Image 1">
@@ -121,15 +123,8 @@ Awards
           <label for="slide-dot3"></label>
         </div>
       </div>
+    </li>
     <li>2022/8 Won the <a href="智能车比赛国家一等奖.jpg">Third Prize</a> of the China University Student Design Competition.</li>
     <li>2022/2 Participated in MCM/ICM to obtain <a href="美赛建模H奖.jpg">Honorable Mentions</a>.</li>
     <li>Some other modeling competitions such as May Day Modelling, and APMCM.</li>
 </ul>
-
-
-
-
-
-
-
-
