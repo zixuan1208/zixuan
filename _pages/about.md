@@ -98,6 +98,39 @@ Awards
 
 ● Some other modeling competitions such as May Day Modelling, and APMCM.  
 
+<script>
+  // 在页面加载完毕后执行
+        document.addEventListener('DOMContentLoaded', function() {
+            // 获取轮播容器和轮播图片数量
+            var slideshowContainer = document.querySelector('.slideshow-container');
+            var slideshowImages = slideshowContainer.querySelectorAll('img');
+            var numImages = slideshowImages.length;
+            
+            // 定义初始显示的图片索引
+            var currentImageIndex = 0;
+            
+            // 自动切换图片的间隔时间（单位：毫秒）
+            var interval = 2000;
+            
+            // 切换图片的函数
+            function changeImage() {
+                // 隐藏当前显示的图片
+                slideshowImages[currentImageIndex].style.opacity = 0;
+                
+                // 计算下一张图片的索引
+                currentImageIndex = (currentImageIndex + 1) % numImages;
+                
+                // 显示下一张图片
+                slideshowImages[currentImageIndex].style.opacity = 1;
+                
+                // 设置定时器，延迟切换下一张图片
+                setTimeout(changeImage, interval);
+            }
+            
+            // 执行切换图片函数
+            setTimeout(changeImage, interval);
+        });
+</script>
 
 
 
