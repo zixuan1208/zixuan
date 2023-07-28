@@ -69,8 +69,6 @@ Hello, I am Xiaochuan Ai（艾小川）, a fourth-year student majoring in Compu
 If you think I would be a good fit or would like to work with me, please feel free to contact me via email to further explore potential collaboration opportunities. Thanks!
 
 
-
-
 Awards
 ======
 
@@ -87,15 +85,17 @@ Awards
 <ul>
       <div class="slideshow-container">
         <input type="radio" name="slide" id="slide1" checked>
-        <img src="images/微信图片_202307192028502.jpg" alt="Image 1">
+        <img src="assets/ICT获奖.PNG" alt="Image 1">
+        <input type="radio" name="slide" id="slide1" checked>
+        <img src="images/微信图片_202307192028502.jpg" alt="Image 2">
         <input type="radio" name="slide" id="slide2">
-        <img src="images/微信图片_20230719202850.jpg" alt="Image 2">
+        <img src="images/微信图片_20230719202850.jpg" alt="Image 3">
         <input type="radio" name="slide" id="slide3">
-        <img src="images/微信图片_202307192028501.jpg" alt="Image 3">
+        <img src="images/微信图片_202307192028501.jpg" alt="Image 4">
         <input type="radio" name="slide" id="slide3">
-        <img src="images/微信图片_202307192028511.jpg" alt="Image 4">
+        <img src="images/微信图片_202307192028511.jpg" alt="Image 5">
         <input type="radio" name="slide" id="slide3">
-        <img src="images/微信图片_20230719202851.jpg" alt="Image 5">        
+        <img src="images/微信图片_20230719202851.jpg" alt="Image 6">        
         <div class="slideshow-controls">
           <input type="radio" name="slide-dot" id="slide-dot1" checked>
           <label for="slide-dot1"></label>
@@ -107,6 +107,8 @@ Awards
           <label for="slide-dot4"></label>
           <input type="radio" name="slide-dot" id="slide-dot5">
           <label for="slide-dot5"></label>
+          <input type="radio" name="slide-dot" id="slide-dot6">
+          <label for="slide-dot6"></label>
       </div>
     </div>
 </ul>
