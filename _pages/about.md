@@ -72,8 +72,8 @@ Awards
 <ul>
     <li>2023/1 Won <a href="中国机器人大赛三等奖.jpg">in the 17th Intelligent Vehicle Competition.
       <div class="slideshow-container">
-        <input type="radio" name="slide" id="slide1" checked>
-        <img src="中国机器人大赛三等奖.jpg" alt="Image 1">
+<!--         <input type="radio" name="slide" id="slide1" checked>
+        <img src="中国机器人大赛三等奖.jpg" alt="Image 1"> -->
         <input type="radio" name="slide" id="slide2">
         <img src="智能车比赛国家一等奖.jpg" alt="Image 2">
         <input type="radio" name="slide" id="slide3">
