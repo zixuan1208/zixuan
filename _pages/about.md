@@ -17,7 +17,7 @@ My research interests are in machine learning, deep learning, computer vision, m
 Awards
 ======
 ● 2023/1 Won [first prize](中国机器人大赛三等奖.jpg) in the 17th Intelligent Vehicle Competition.  
-![image]()
+![image](https://github.com/zixuan1208/zixuan/blob/master/%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B%E4%B8%89%E7%AD%89%E5%A5%96.jpg)  
 ● 2022/8 Won the [Third Prize](智能车比赛国家一等奖.jpg) of the China University Student Design Competition.  
 
 ● 2022/2 Participated in MCM/ICM to obtain [Honorable Mentions](美赛建模H奖.jpg).  
