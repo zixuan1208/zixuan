@@ -18,26 +18,26 @@ Awards
 ======
 ● 2023/1 Won [first prize](中国机器人大赛三等奖.jpg) in the 17th Intelligent Vehicle Competition.  
 <div class="slideshow-container">
-        <input type="radio" name="slide" id="slide1" checked>
-        <img src="中国机器人大赛三等奖.jpg" alt="Image 1">
+    <input type="radio" name="slide" id="slide1" checked>
+    <img src="中国机器人大赛三等奖.jpg" alt="Image 1">
+    
+    <input type="radio" name="slide" id="slide2">
+    <img src="智能车比赛国家一等奖.jpg" alt="Image 2">
+    
+    <input type="radio" name="slide" id="slide3">
+    <img src="美赛建模H奖.jpg" alt="Image 3">
+    
+    <div class="slideshow-controls">
+        <input type="radio" name="slide-dot" id="slide-dot1" checked>
+        <label for="slide-dot1"></label>
         
-        <input type="radio" name="slide" id="slide2">
-        <img src="智能车比赛国家一等奖.jpg" alt="Image 2">
+        <input type="radio" name="slide-dot" id="slide-dot2">
+        <label for="slide-dot2"></label>
         
-        <input type="radio" name="slide" id="slide3">
-        <img src="美赛建模H奖.jpg" alt="Image 3">
-        
-        <div class="slideshow-controls">
-            <input type="radio" name="slide-dot" id="slide-dot1" checked>
-            <label for="slide-dot1"></label>
-            
-            <input type="radio" name="slide-dot" id="slide-dot2">
-            <label for="slide-dot2"></label>
-            
-            <input type="radio" name="slide-dot" id="slide-dot3">
-            <label for="slide-dot3"></label>
-        </div>
+        <input type="radio" name="slide-dot" id="slide-dot3">
+        <label for="slide-dot3"></label>
     </div>
+</div>
 <div>
   ![image](中国机器人大赛三等奖.jpg)  
 </div>
