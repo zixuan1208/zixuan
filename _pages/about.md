@@ -25,9 +25,9 @@ Awards
 * 2022/11   Awarded Second Class[Academic Scholarship](images/微信图片_202307192028501.jpg) for the 2021- 2022 academic year.
 * 2022/11   Won [First prize](images/微信图片_202307192028511.jpg) of ICT competition.
 * 2022/12   Won [Second prize](images/微信图片_20230719202851.jpg) of 2022-2023  ICT Competition Shaanxi Division.<br>
-![ICT获奖](https://github.com/XiaochuanAi/XiaochuanAi.github.io/blob/master/assets/ICT%E8%8E%B7%E5%A5%96.PNG)   
+![ICT获奖](assets/ICT获奖.PNG)   
 
-
+assets/ICT获奖.PNG
 
 Open to Collaboration
 ======
