@@ -102,7 +102,11 @@ Awards
           <input type="radio" name="slide-dot" id="slide-dot2">
           <label for="slide-dot2"></label>
           <input type="radio" name="slide-dot" id="slide-dot3">
-        <label for="slide-dot3"></label>
+          <label for="slide-dot3"></label>
+          <input type="radio" name="slide-dot" id="slide-dot4">
+          <label for="slide-dot4"></label>
+          <input type="radio" name="slide-dot" id="slide-dot5">
+          <label for="slide-dot5"></label>
       </div>
     </div>
 </ul>
