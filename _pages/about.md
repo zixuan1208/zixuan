@@ -16,9 +16,8 @@ My research interests are in machine learning, deep learning, computer vision, m
 
 Awards
 ======
-<u>
-    <li>2023/1 Won <a href="中国机器人大赛三等奖.jpg">Third Prize </a> in the 17th Intelligent Vehicle Competition.</li>
-    <li>2022/8 Won the <a href="智能车比赛国家一等奖.jpg">First Prize</a> of the China University Student Design Competition.</li>
-    <li>2022/2 Participated in MCM/ICM to obtain <a href="美赛建模H奖.jpg">Honorable Mentions</a>.</li>
-    <li>Some other modeling competitions such as May Day Modelling, and APMCM.</li>
-</u>
+2023/1 Won [Third Prize](中国机器人大赛三等奖.jpg) in the 17th Intelligent Vehicle Competition.
+2022/8 Won the [First Prize](智能车比赛国家一等奖.jpg) of the China University Student Design Competition.
+2022/2 Participated in MCM/ICM to obtain [Honorable Mentions](美赛建模H奖.jpg).
+Some other modeling competitions such as May Day Modelling, and APMCM.
+
