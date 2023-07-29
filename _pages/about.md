@@ -114,7 +114,7 @@ Awards
         <img src="智能车比赛国家一等奖.jpg" alt="Image 2">
         <input type="radio" name="slide" id="slide3">
         <img src="美赛建模H奖.jpg" alt="Image 3">
-        <div class="slideshow-controls">
+<!--         <div class="slideshow-controls">
           <input type="radio" name="slide-dot" id="slide-dot1" checked>
           <label for="slide-dot1"></label>
           <input type="radio" name="slide-dot" id="slide-dot2">
@@ -122,7 +122,7 @@ Awards
           <input type="radio" name="slide-dot" id="slide-dot3">
           <label for="slide-dot3"></label>
         </div>
-      </div>
+      </div> -->
     </li>
     <li>2022/8 Won the <a href="智能车比赛国家一等奖.jpg">Third Prize</a> of the China University Student Design Competition.</li>
     <li>2022/2 Participated in MCM/ICM to obtain <a href="美赛建模H奖.jpg">Honorable Mentions</a>.</li>
