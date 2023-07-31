@@ -10,5 +10,3 @@ Paper ID: CSP-27309<br>
 Acceptance date: 2023-May-13（Paper accepted, expected to be published in early September）<br>
 
 
-#
-#https://xiaochuanai.github.io//assets/CSP.pdf
