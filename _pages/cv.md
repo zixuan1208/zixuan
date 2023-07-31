@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-Please download my [CV](https://xiaochuanai.github.io//assets/Curriculum%20Vitae.pdf).
+Please download my [CV](https://xiaochuanai.github.io//assets/XiaochuanAi_CV.pdf).
 
