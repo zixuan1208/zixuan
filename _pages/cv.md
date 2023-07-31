@@ -9,4 +9,4 @@ redirect_from:
 
 Please download my [CV](https://xiaochuanai.github.io//assets/Curriculum%20Vitae.pdf).
 
-[another](https://github.com/XiaochuanAi/XiaochuanAi.github.io/blob/master/assets/Curriculum%20Vitae.pdf)
+#[another](https://github.com/XiaochuanAi/XiaochuanAi.github.io/blob/master/assets/Curriculum%20Vitae.pdf)
